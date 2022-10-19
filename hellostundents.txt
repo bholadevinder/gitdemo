@@ -1,0 +1,2 @@
+hi students 
+this is our first session on git amd hope u are loving it
